@@ -5,15 +5,15 @@
 <p>Mensagem para todos os usuários do WhatsApp Assem Mahgoob ERWhatsApp</p>
 <p>Message à tous les utilisateurs de WhatsApp Assem Mahgoob ERWhatsApp</p>
 
-<li> لكل من واجهته مشكلة عدم تغير الثيمات يرجى فقط تحميل التحديث الاصلاحي وتثبيته وسوف تنحل المكشله</li>
-<li> For anyone who has encountered the problem of not changing themes please just download and install the reform update and will solve the failure</li>
-<li> Para qualquer um que tenha encontrado o problema de não alterar os temas, faça o download e instale a atualização da reforma e resolva a falha</li>
-<li> Pour tous ceux qui ont rencontré le problème de ne pas changer de thème, veuillez simplement télécharger et installer la mise à jour de la réforme et résoudre le problème</li>
+<p> لكل من واجهته مشكلة عدم تغير الثيمات يرجى فقط تحميل التحديث الاصلاحي وتثبيته وسوف تنحل المكشله</p>
+<p> For anyone who has encountered the problem of not changing themes please just download and install the reform update and will solve the failure</p>
+<p> Para qualquer um que tenha encontrado o problema de não alterar os temas, faça o download e instale a atualização da reforma e resolva a falha</p>
+<p> Pour tous ceux qui ont rencontré le problème de ne pas changer de thème, veuillez simplement télécharger et installer la mise à jour de la réforme et résoudre le problème</p>
 
-<li> سوف تختفي هذه الرساله خلال 24 ساعه</li>
-<li> This message will disappear within 24 hours</li>
-<li> Esta mensagem desaparecerá dentro de 24 horas</li>
-<li> Ce message disparaîtra dans les 24 heures</li>
+<p> سوف تختفي هذه الرساله خلال 24 ساعه</p>
+<p> This message will disappear within 24 hours</p>
+<p> Esta mensagem desaparecerá dentro de 24 horas</p>
+<p> Ce message disparaîtra dans les 24 heures</p>
 
 
 ","url":"http://www.3ssem.com/2018/09/erwhatsapp-1.30.html"
