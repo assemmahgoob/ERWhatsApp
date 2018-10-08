@@ -1,21 +1,82 @@
-{"version_code":451209,"content":"
+{"version_code":451207,"content":"
 
-<p>رسالة الى جميع مستخدمين واتساب عاصم محجوب نسخة ارطغرل الذهبيه ERWhatsApp</p>
-<p>Message to all users of WhatsApp Assem Mahgoob ERWhatsApp</p>
-<p>Mensagem para todos os usuários do WhatsApp Assem Mahgoob ERWhatsApp</p>
-<p>Message à tous les utilisateurs de WhatsApp Assem Mahgoob ERWhatsApp</p>
+<p>تحديث 1.30</p>
 
-<p>لكل من واجهته مشكلة عدم تغير الثيمات يرجى فقط تحميل التحديث الاصلاحي وتثبيته وسوف تنحل المكشله</p>
-<p>For anyone who has encountered the problem of not changing themes please just download and install the reform update and will solve the failure</p>
-<p>Para qualquer um que tenha encontrado o problema de não alterar os temas, faça o download e instale a atualização da reforma e resolva a falha</p>
-<p>Pour tous ceux qui ont rencontré le problème de ne pas changer de thème, veuillez simplement télécharger et installer la mise à jour de la réforme et résoudre le problème</p>
+<li> التحديث لنسخة الماركت 2.18.203</li>
 
-<p>سوف تختفي هذه الرساله خلال 24 ساعه</p>
-<p>This message will disappear within 24 hours</p>
-<p>Esta mensagem desaparecerá dentro de 24 horas</p>
-<p>Ce message disparaîtra dans les 24 heures</p>
+<li> نسخه امنه ومستقره وخفيفه وبدون مشاكل</li>
 
+<li> اصلاح مشكلة عدم اختفاء ايقونة النص التلقائي (التحفيل)</li>
+
+<li> اصلاح سرفر الثيمات وبدون الحاجه الي التطبيق واضافة ثيمات جديده</li>
+
+<li> (حصرياً) ‏إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
+
+<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)</li>
+
+<li> تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها(الخيارات - المزيد - نقل الدردشة)</li>
+
+<li> تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات</li>
+
+<li> تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية</li>
+
+<li> إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته وكذلك نقله(افتح الإعدادات في واتساب - الحساب - طلب معلومات الحساب</li>
+
+<li> لا حاجة لتطبيق GBThemes بعد الان تم إزالته</li>
+
+<li> إزالة الخيار رقم 6.8 عرض قائمة الاسماء</li>
+
+<li> إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة</li>
+
+<li> إصلاح مشكلة تطبيق الثيمات في بعض الأجهزة</li>
+
+<li> إصلاح مشكلة البحث في الإنترنت</li>
+
+<li> إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها من الخيار 6.7</li>
+
+<li> إصلاح مشكلة مشاركة و إرسال الثيمات</li>
+
+<li> تحديث اللغات الايطالية والبرتغالية</li>
+
+<li> إصلاحات اخرى</li>
+
+<li> New Base Updated to 2.18.203</li>
+
+<li> Fixed the problem of autotext</li>
+
+<li> Fixed Themes problems and added new themes</li>
+
+<li> Fixed all problems (bugs)</li>
+
+<li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
+
+<li> Enabled Media Visibility (Go to Profile - Media Visibility) </li>
+
+<li> Enabled Mark as Read in Notification.</li>
+
+<li> Enabled Select All Chats on Main Screen</li>
+
+<li> Removed Seperate App for Themes</li>
+
+<li> Removed Mod 6.8 as Old. </li>
+
+<li> Fixed Header Vibration for Hide Chats</li>
+
+<li> Fixed Revoke Notification not showing in Few Devices</li>
+
+<li> Fixed Apply Themes in Some Devices</li>
+
+<li> Fixed Web Search</li>
+
+<li> Fixed Backup & Restore (Mod 6.7)</li>
+
+<li> Fixed Share and Send Theme</li>
+
+<li> Updated Italian and Portuguese Language</li>
+
+<li> Many Other Fixes</li>
 
 ","url":"http://www.3ssem.com/2018/09/erwhatsapp-1.30.html"
 
 }
+
