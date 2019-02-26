@@ -1,71 +1,73 @@
-{"version_code":451209,"content":"
+{"version_code":451210,"content":"
 
-<p>تحديث 1.40 (Update)</p>
+<p>تحديث 1.50 (Update)</p>
 
-<li> التحديث لنسخة الماركت 2.18.327</li>
+<li>إضافة خيار الرجوع للفيسات (الايموجي)القديمة (يعمل تلقائيا بدون إعادة تشغيل)</li>
 
-<li> تفعيل ميزة الملصقات يمكنك الآن تنزيل الملصقات المعبرة واستخدامها في الدردشات</li>
+<li>إضافة قسم من الحالات الكتابية فيه اقسام كثيرة (يعمل بدون نت)</li>
 
-<li> (حصرياً) إضافة اشارة في حال قام احد ما بعمل منشن @ لك او رد على رسائلك في المجموعة</li>
+<li>زيادة حجم الحالة الى اكثر من ساعة</li>
 
-<li> (حصرياً) لن تظهر معاد توجيهها عند الطرف الاخر في حال قمت بعمل اعادة توجيه لرسالة ما</li>
+<li>زيادة حجم الحالة الى اكثر من ساعة</li>
 
-<li> تم تطوير ميزة إيقاف استقبال المكالمات بحيث يمكنك ايقافها بدون ان يظهر للطرف الاخر ان هاتفك يرن وييظهر له جاري الاتصال</li>
+<li>زيادة عدد اعضاء الرسائل الجماعية</li>
 
-<li> (حصرياً) إضافة الخيار رقم 1.2.2 يمكنك نسخ جزء من اي رسالة بسهولة</li>
+<li>تمديد فترة صلاحية الواتساب الى عام 2020</li>
 
-<li> بإمكانك الآن تمرير الرسالة من اليسار إلى اليمين للرد عليها</li>
+<li>يمكنك اضافة ملصقات للواتساب من تطبيقات الماركت</li>
 
-<li> تفعيل ميزة حفظ مكان القراءة حيث عند فتح محادثة سابقة توقفت فيها عند كلمة معينة سوف تظهر مباشرة عند الدخول الى المحادثة مرة أخرى</li>
+<li>إضافة خطوط جديدة</li>
 
-<li> ‏تفعيل ميزة المكالمات الجماعية</li>
+<li>إضافة ايقونات جديدة</li>
 
-<li> تفعيل ميزة صورة داخل الصورة</li>
+<li>إضافة الخيار 6.21 لتعطيل فتح المحادثات المخفية بعد الضغط على كلمة WhatsApp</li>
 
-<li> إضافة الخيار رقم 6.8 لتعيين المدة لإشعار بعد الضغط على الرسائل المحذوفة</li>
+<li>يمكنك ترتيب عرض الرسائل حسب الاقدم او الاحد بعد عرض الرسائل المرسلة من قبل اي شخص في المجموعة </li>
 
-<li> دعم تغيير ثيم قسم الملصقات</li>
+<li>يمكنك تثبيت ٣٠ محادثة بدلا من ٢٥ محادثة</li>
 
-<li> إزالة الحد الأدني لعمل إعادة توجية لمستخدمين دولة الهند</li>
+<li>إضافة نافذة تأكيد عند الاتصال بشخص ما من داخل المجموعة</li>
 
-<li> إصلاح مشكلة ظهور المحادثات المخفية من خلال شاشة المكالمات</li>
+<li>اصلاح الايقاف الاجباري عندي اختيار اكثر من شخص في قائمة الرد التلقائي و الرسائل المجدولة</li>
 
-<li> إصلاح مشكلة  الخيار 6.15 صورة مربعة</li>
+<li>اصلاح خيار تغيير اللغة في اصدار اوريو واعلى</li>
 
-<li> إصلاح مشكلة البحث عن الثيمات</li>
+<li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
 
-<li> إصلاحات أخرى</li>
+<li>إصلاحات اخرى</li>
 
-<li> New Base Updated to 2.18.327</li>
+<li> Added Option to Back to Old Emoji(It works automatically without restarting)</li>
 
-<li> Enabled Stickers</li>
+<li> Added section of statous written</li>
 
-<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
+<li> Increase the size of statous to more than an hour</li>
 
-<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
+<li> Increase the number of members of the broadcasts to 1024</li>
 
-<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
+<li> Extend the validity of the Whatsapp to 2020</li>
 
-<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
+<li> Added Now You can Add Stickers From PlayStore to any Package</li>
 
-<li> Enabled Swipe To Reply</li>
+<li> Added New Fonts</li>
 
-<li> Enabled Group Calls</li>
+<li> Added New Launcher Icons</li>
 
-<li> Increased Forward Limit for Indian Users</li>
+<li> Added Option to Disable click on Header for Hidden Chats (Mod 6.21)</li>
 
-<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
+<li> Added Now You can Sort Messages Sent By (Newest/Oldest) </li>
 
-<li> Added Themed Stickers Tab</li>
+<li> Added Confirmation Dialog when Call in Group Chat</li>
 
-<li> Fixed Hidden Chats Showing in Calls Tab</li>
+<li> Increased Pin Chats from 25 to 30</li>
 
-<li> Fixed Square Pics</li>
+<li> Fixed Force Close when Select more than 2 contacts in Auto Reply/Message Scheduler </li>
 
-<li> Fixed Search in Themes</li>
+<li> Fixed Change App Language in Android Oreo and Pie</li>
 
-<li> Many Other Fixes</li>
+<li> Fixed Showing View Messages sent By when Click on More Contacts in Group Profile</li>
 
-","url":"https://www.3ssem.com/2018/11/erwhatsapp-v1-40.html"
+<li> Many More Fixes</li>
+
+","url":"https://www.3ssem.com/2019/02/erwhatsapp-v150.html"
 
 }
