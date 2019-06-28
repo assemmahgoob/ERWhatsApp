@@ -1,30 +1,14 @@
-{"version_code":451114,"content":"
+{"version_code":451216,"content":"
 
-<p>تحديث 1.70 (Update)</p>
+<p>تحديث اجباري 1.70 (Download is mandatory)</p>
 
 <li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
 
-<li>تمديد صلاحية النسخة لمدة شهرين</li>
+<li>يرجى تحميل هذا التحديث بسرعه قبل الحظر والذين قاموا بتحميل التحديث سابقا يرجى التحميل مجددا لتفادي الحظر النهائي</li>
 
-<li>اصلاح مشكلة ظهور عداد الرسائل المخفية</li>
+<li> Anti-Ban (Please take Backup - Uninstall App / Install ERWhatsApp v1.70)</li>
 
-<li>اصلاح لون الدفعات في شاشة المحادثة</li>
-
-<li>اصلاح الانهيار عند فتح محادثة في بعض الاصدارات</li>
-
-<li>اصلاحات اخرى</li>
-
-<li> Anti-Ban (Please take Backup - Uninstall App / Install GBWhatsApp v7.00)</li>
-
-<li> Extend expiry for this Base</li>
-
-<li> Fixed Hidden Chat Count Showing on Main Screen</li>
-
-<li> Fixed Payments Color in Attach Menu</li>
-
-<li> Fixed Crash when open chat in some devices</li>
-
-<li> Other Fixes</li>
+<li> Please Download this update quickly before the ban and those who have to download the update previously please download again to avoid the ban the final</li>
 
 ","url":"https://www.3ssem.com/2019/06/erwhatsapp-1-70.html"
 
