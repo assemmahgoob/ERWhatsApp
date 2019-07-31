@@ -1,8 +1,7 @@
-{"version_code":451216,"content":"
+{"version_code":451217,"content":"
 
 <p>تحديث 1.75 (Update)</p>
 
-<li>نسخة ضد الحظر (يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتس اب وتثبيت التحديث الجديد حتى لا يتم حظر رقمك مستقبلا)</li>
 
 <li>تم تمديد النسخه 5 اشهر من نشرها</li>
 
@@ -10,7 +9,6 @@
 
 <li>اصلاحات اخرى</li>
 
-<li> Anti-Ban (Please take Backup - Uninstall App / Install ERWhatsApp v1.75)</li>
 
 <li> Extended version 5 months</li>
 
