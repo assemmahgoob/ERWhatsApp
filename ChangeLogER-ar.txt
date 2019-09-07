@@ -1,19 +1,68 @@
-{"version_code":451217,"content":"
+{"version_code":451219,"content":"
+<p>تحديث 1.80 (Update)</p>
 
-<p>تحديث 1.75 (Update)</p>
 
+<li>اضافة المزيد من الحمايه ضد الحظر</li>
 
-<li>تم تمديد النسخه 5 اشهر من نشرها</li>
+<li>تحسين اعدادات الخصوصية</li>
 
-<li>حل مشكلة الايقاف الاجباري عند دخول اي محادثه</li>
+<li>إمكانية حذف اي رسالة قمت بارسالها من عند الطرف الآخر</li>
+
+<li>إضافة خيار إظهار الصحين الزرقاء فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)</li>
+
+<li>زيادة حجم الحاله الى اكثر من 10 دقائق بدلا من 30 ثانيه</li>
+
+<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
+
+<li>اضافة مراسلة لرقم غير مسجل</li>
+
+<li>اضافة سرفر ثيمات جديده وتعمل مع جميع الاجهزه</li>
+
+<li>اضافة خيار مصادقة البصمه(الخصوصية)</li>
+
+<li>اضافة خيار العودة الى واجهة الواتساب القديمه 2014</li>
+
+<li>اضافة خيار لاخفاء اسم الشخص عند المحادثه(اضافات عاصم-محتوى شاشة المحادثات)</li>
+
+<li>اضافة خطوط جديده للواتساب وبدون تحميل كل ماعليك هو اختيار الخط فقط</li>
+
+<li>امكانية زيادة عدد اعضاء الرسائل الجماعية الى اكثر من 1024</li>
+
+<li>اضافة ايقونات جديده(اضافات عاصم-الوان التطبيق والايقونات-ايقونة البرنامج)</li>
+
+<li>اضافة النسخ الاحتياطي والاستعاده وتعمل مع جميع الاجهزه (اضافات عاصم-النسخ الاحتياطي)</li>
 
 <li>اصلاحات اخرى</li>
 
 
-<li> Extended version 5 months</li>
 
-<li> Fixed all problems</li>
+<li> Add more protection Anti ban</li>
 
-","url":"https://www.3ssem.com/2019/07/er-whatsapp-v1-75.html"
+<li> Improved Privacy Settings</li>
+
+<li> ability to delete messages (Select any message - open options and click delete for everyone)</li>
+
+<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
+
+<li> Increase Status Limit to 10 Minutes</li>
+
+<li> Added option to Apply Old UI 2014</li>
+
+<li> Added option to Hide Conversation Names</li>
+
+<li> Added New Fonts</li>
+
+<li> Added Bacup and Restore (AG Settings-Backup and Restore)</li>
+
+<li> Now you can send message to unsaved Number</li>
+
+<li> Increase the number of members of the broadcasts to 1024</li>
+
+<li> Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+
+<li> Added New Icons(AG Settings-Colors and Icon-Icon)</li>
+
+
+","url":"https://www.3ssem.com/2019/09/erwhatsapp.html"
 
 }
