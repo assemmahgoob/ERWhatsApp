@@ -1,66 +1,58 @@
-{"version_code":451219,"content":"
-<p>تحديث 1.80 (Update)</p>
+{"version_code":451222,"content":"
+<p>تحديث 1.90 (Update)</p>
 
 
-<li>اضافة المزيد من الحمايه ضد الحظر</li>
+<li>تحديث قاعدة 2.19.291</li>
 
-<li>تحسين اعدادات الخصوصية</li>
+<li>ستايل جديد لاضافات عاصم محجوب</li>
 
-<li>إمكانية حذف اي رسالة قمت بارسالها من عند الطرف الآخر</li>
+<li>ستايل جديد للنص التلقائي</li>
 
-<li>إضافة خيار إظهار الصحين الزرقاء فقط بعد الرد (تعليم الرساله مقروءه بعد الرد!)</li>
+<li>زيادة مدة حجم الحالة الى اكثر من 10 دقائق</li>
 
-<li>زيادة حجم الحاله الى اكثر من 10 دقائق بدلا من 30 ثانيه</li>
+<li>زيادة اعادة التوجية الى مالانهاية</li>
 
-<li>اضافة ميزة عدم حذف الحالات(لن يستطيع اي شخص حذف حالته من عندك)</li>
+<li>تستطيع الان تثبيت اكثر من 1000 محادثة</li>
 
-<li>اضافة مراسلة لرقم غير مسجل</li>
+<li>اضافة شكل الستوري مثل الانستغرام</li>
 
-<li>اضافة سرفر ثيمات جديده وتعمل مع جميع الاجهزه</li>
+<li>نسخة تعمل مع الاجهزة القديمه بدون اي مشاكل او انهيارات</li>
 
-<li>اضافة خيار مصادقة البصمه(الخصوصية)</li>
+<li>اصلاح مشكلة الثيمات واضافة سرفر ثيمات يحتوي على اكثر من 1000 ثيم جديد</li>
 
-<li>اضافة خيار العودة الى واجهة الواتساب القديمه 2014</li>
+<li>اصبحت النسخة ضد الفيروسات وسريعة في الارسال</li>
 
-<li>اضافة خيار لاخفاء اسم الشخص عند المحادثه(اضافات عاصم-محتوى شاشة المحادثات)</li>
+<li>حل مشكلة تأخر وصول الرسائل في بعض الاجهزة</li>
 
-<li>اضافة خطوط جديده للواتساب وبدون تحميل كل ماعليك هو اختيار الخط فقط</li>
+<li>حل مشكلة الانهيارات في بعض الاجهزة</li>
 
-<li>امكانية زيادة عدد اعضاء الرسائل الجماعية الى اكثر من 1024</li>
-
-<li>اضافة ايقونات جديده(اضافات عاصم-الوان التطبيق والايقونات-ايقونة البرنامج)</li>
-
-<li>اضافة النسخ الاحتياطي والاستعاده وتعمل مع جميع الاجهزه (اضافات عاصم-النسخ الاحتياطي)</li>
-
-<li>اصلاحات اخرى</li>
+<li> إصلاحات وتحسينات أخرى</li>
 
 
 
-<li> Add more protection Anti ban</li>
+<li> Updated Base 2.19.291</li>
 
-<li> Improved Privacy Settings</li>
+<li> Add new style to additions AG Settings</li>
 
-<li> ability to delete messages (Select any message - open options and click delete for everyone)</li>
+<li> Add new AutoText style</li>
 
-<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
+<li> Increase duration of Status to more than 10 minutes</li>
 
-<li> Increase Status Limit to 10 Minutes</li>
+<li> Increase Forward to infinity</li>
 
-<li> Added option to Apply Old UI 2014</li>
+<li> You can now install more than 1000 conversations</li>
 
-<li> Added option to Hide Conversation Names</li>
+<li> Add a story like Instagram to activate this option go to AG Settings then the main screen and then the top bar</li>
 
-<li> Added New Fonts</li>
+<li> Version became anti-virus and fast in the mailer</li>
 
-<li> Added Bacup and Restore (AG Settings-Backup and Restore)</li>
+<li> Solve the problem of crashes in some devices</li>
 
-<li> Now you can send message to unsaved Number</li>
+<li> Resolved the problem of delayed arrival of messages and not to send messages quickly in some devices</li>
 
-<li> Increase the number of members of the broadcasts to 1024</li>
+<li> This version is compatible with all versions including Kitkat 4</li>
 
-<li> Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
-
-<li> Added New Icons(AG Settings-Colors and Icon-Icon)</li>
+<li> Other fixes and improvements discovered by yourself</li>
 
 
 ","url":"https://www.3ssem.com/2019/09/erwhatsapp.html"
