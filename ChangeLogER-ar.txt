@@ -2,25 +2,17 @@
 <p>تحديث 1.90 (Update)</p>
 
 
-<li>تحديث قاعدة 2.19.291</li>
-
-<li>ستايل جديد لاضافات عاصم محجوب</li>
-
-<li>ستايل جديد للنص التلقائي</li>
+<li>زيادة اعادة التوجية الى مالانهاية</li>
 
 <li>زيادة مدة حجم الحالة الى اكثر من 10 دقائق</li>
 
-<li>زيادة اعادة التوجية الى مالانهاية</li>
-
 <li>تستطيع الان تثبيت اكثر من 1000 محادثة</li>
-
-<li>اضافة شكل الستوري مثل الانستغرام</li>
 
 <li>نسخة تعمل مع الاجهزة القديمه بدون اي مشاكل او انهيارات</li>
 
 <li>اصلاح مشكلة الثيمات واضافة سرفر ثيمات يحتوي على اكثر من 1000 ثيم جديد</li>
 
-<li>اصبحت النسخة ضد الفيروسات وسريعة في الارسال</li>
+<li> تمديد عمر النسخه 4 اشهر</li>
 
 <li>حل مشكلة تأخر وصول الرسائل في بعض الاجهزة</li>
 
@@ -29,20 +21,11 @@
 <li> إصلاحات وتحسينات أخرى</li>
 
 
-
-<li> Updated Base 2.19.291</li>
-
-<li> Add new style to additions AG Settings</li>
-
-<li> Add new AutoText style</li>
-
 <li> Increase duration of Status to more than 10 minutes</li>
 
 <li> Increase Forward to infinity</li>
 
 <li> You can now install more than 1000 conversations</li>
-
-<li> Add a story like Instagram to activate this option go to AG Settings then the main screen and then the top bar</li>
 
 <li> Version became anti-virus and fast in the mailer</li>
 
